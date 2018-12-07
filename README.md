@@ -1,13 +1,11 @@
 MPDRemote
 ==============
 
-[![Twitter: @Nyx0uf](https://img.shields.io/badge/contact-@Nyx0uf-blue.svg?style=flat)](https://twitter.com/Nyx0uf) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Nyx0uf/MPDRemote/blob/master/LICENSE.md) [![Swift Version](https://img.shields.io/badge/Swift-4.0-orange.svg)]() [![AppStore](https://img.shields.io/itunes/v/1202933180.svg)](https://itunes.apple.com/us/app/mpdremote/id1202933180?mt=8) [![Build Status](https://travis-ci.org/Nyx0uf/MPDRemote.svg?branch=master)](https://travis-ci.org/Nyx0uf/MPDRemote)
+[![Twitter: @Nyx0uf](https://img.shields.io/badge/contact-@Nyx0uf-blue.svg?style=flat)](https://twitter.com/Nyx0uf) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Nyx0uf/MPDRemote/blob/master/LICENSE.md) [![Swift Version](https://img.shields.io/badge/Swift-4.0-orange.svg)]() [![Build Status](https://travis-ci.org/Nyx0uf/MPDRemote.svg?branch=master)](https://travis-ci.org/Nyx0uf/MPDRemote)
 
 ![screenshot1](https://mpdremote.whine.fr/img/demo-screen-2.gif)
 
 **MPDRemote** is an iOS application to control a [MPD](http://www.musicpd.org/) server. It is written in Swift 4 and requires at least iOS 10.
-
-**Note : I plan to drop support for iOS 10 and support only iOS 11+ by April 2018.**
 
 |         | FEATURES |
 | --------- | --------- |
